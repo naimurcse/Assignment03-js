@@ -1,4 +1,4 @@
-
+// https://github.com/naimurcse/Assignment03-js
 
 
 // Kilometer To Meter Converter
@@ -14,6 +14,7 @@ function kilometerToMeter(kilometer){
 
 var getResultInMeter = kilometerToMeter(5);       // Enter positive value
 console.log(getResultInMeter);
+
 
 
 
@@ -37,6 +38,7 @@ function budgetCalculator(noOfWatch, noOfMobile, noOfLeptop){
 
 var totalAmount = budgetCalculator(5,3,4);          // Don't Enter Negative or Float Number.
 console.log(totalAmount);
+
 
 
 
@@ -71,6 +73,7 @@ function hotelCost(noOfDay){
 
 var totaHotelCost = hotelCost(22);     // Enter Number of Days
 console.log(totaHotelCost);
+
 
 
 
